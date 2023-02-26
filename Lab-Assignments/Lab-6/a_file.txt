@@ -1,0 +1,237 @@
+Sample: 'british company interpret ford interest prelude hostile takeover bid', with label 1 and prediction 1
+Sample: 'main interest put firm business fairly quickly say', with label 3 and prediction 6
+Sample: 'annuity type tax-advantaged retirement saving plan appeal augment eye-catching first-year interest rate', with label 6 and prediction 6
+Sample: 'local bank also attract interest speculation merger acquisition', with label 1 and prediction 1
+Sample: 'nomination indication interest specific area attractive exploration', with label 1 and prediction 1
+Sample: 'inclusion peseta escudo apt rise short long-term interest rate share so-called soft-currency high interest country currency basket increase accord study ecu ubs phillips draw', with label 6 and prediction 6
+Sample: 'bullish dollar sentiment appear strong enough survive gradual reduction interest rate', with label 6 and prediction 6
+Sample: 'judge decide knock several category charge include late-payment fee sound reasonable amount interest', with label 6 and prediction 6
+Sample: 'addition begin year company defer recognition interest income earn fund deposit escrow account relate settlement agreement former director', with label 6 and prediction 6
+Sample: 'annualized interest rate certain investment report federal reserve board weekly-average basis a-discounted rate', with label 6 and prediction 6
+Sample: 'initial rate set tuesday interest pay quarterly rate note reset monthly', with label 6 and prediction 6
+Sample: 'mark significant shift interest rate outlook say william sullivan director money market research dean witter reynolds inc new york', with label 6 and prediction 6
+Sample: 'ally say pay interest senior note due pay interest senior subordinate debenture due', with label 6 and prediction 6
+Sample: 'smoking provision attract public interest underlie bill subject behind-the-scenes lobbying impact air transportation mundane politically important project member', with label 1 and prediction 6
+Sample: 'pact oryx sell interest oil gas field state american exploration houston', with label 5 and prediction 5
+Sample: 'see payment rise several dollar month interest rate climb steadily past year', with label 6 and prediction 6
+Sample: 'head trader chemical banking corp interest rate option group leave company follow valuation error result charge third-quarter result', with label 6 and prediction 6
+Sample: 'australia commit keep interest rate high era', with label 6 and prediction 6
+Sample: 'colony bank major stake interest rate move enormous hong kong-dollar exposure', with label 6 and prediction 6
+Sample: 'interest rate option contract client pay fee bank custom-tailored protection adverse interest rate swing specify period', with label 6 and prediction 6
+Sample: 'average maturity consider indication direction professional money manager think interest rate head', with label 6 and prediction 6
+Sample: 'mark post steady gain week market expect increase german interest rate', with label 6 and prediction 6
+Sample: 'lower interest rate enough keep economy grow moderate pace accelerate inflation feed attempt steer economy eighth year economic expansion', with label 6 and prediction 6
+Sample: 'naomi bernhard levinson fine-arts appraiser bernhard associate san francisco consider definite conflict interest auction house advise client purchase set price estimate painting purchase', with label 4 and prediction 5
+Sample: 'fluctuation short interest certain stock also cause partly arbitrage', with label 5 and prediction 5
+Sample: 'company also continue pursue sale interest showtime network inc unit company cable-tv industry biondi say', with label 5 and prediction 5
+Sample: 'raytheon use british design make radar equipment detect enemy plane world war purchase one-third interest new japan radio make tube design available japanese concern', with label 5 and prediction 6
+Sample: 'large heterogeneous election district encourage good government say madison representative compel serve interest constituent servile none', with label 4 and prediction 4
+Sample: 'even report help accelerate market downturn dealer say price depressed mainly belief pound remain pressure government little support currency continue raise interest rate', with label 6 and prediction 6
+Sample: 'charge minority interest total year-earlier period', with label 5 and prediction 5
+Sample: 'adjacent table show big board amex issue short interest position least share exist mid-september short position change least share mid-august see accompany table wsj sept', with label 5 and prediction 5
+Sample: 'return richfield seek stake least australian company substantial retail property interest', with label 5 and prediction 5
+Sample: 'corporate issue several blue-chip company tap new-issue market yesterday take advantage fall interest rate', with label 6 and prediction 6
+Sample: 'well-publicized trouble large issuer high-yield corporate bond send interest rate issue climb new high relative government debt', with label 6 and prediction 6
+Sample: 'amex short interest reach share adjust', with label 5 and prediction 5
+Sample: 'interest', with label 1 and prediction 2
+Sample: 'ally indicate amount overdue payment analyst say aggregate interest due friday ally high-yield bond', with label 6 and prediction 6
+Sample: 'amex short interest climb share share', with label 5 and prediction 5
+Sample: 'speculation imminent rise german interest rate make round day intensify week send dax index tailspin tuesday cost end wednesday session', with label 6 and prediction 6
+Sample: 'washington motivation two-year reduction budgetary mean public interest', with label 4 and prediction 1
+Sample: 'flow base mclean interest defense work electronics software', with label 5 and prediction 5
+Sample: 'fact zenith say profitable last month incur hefty interest expense debt load', with label 6 and prediction 6
+Sample: 'sweep claim national power draw sustenance court justification federal wage hour standard state municipal employee garcia decision state need protection court argument run already quite adequately protect national political process representation local interest congress political party state-centered arithmetic electoral college', with label 4 and prediction 6
+Sample: 'china hopeless democracy say wan add believe make democratic stable china interest unite state', with label 4 and prediction 4
+Sample: 'watch interest sport plummet year ski industry try give lift', with label 1 and prediction 1
+Sample: 'merrill lynch withdraw lead manager bond issue holmes court bell resource ltd use reduce interest bill', with label 6 and prediction 6
+Sample: 'give thatcher steadfast support north american interest unilateralist tendency british opposition president bush canadian prime minister brian mulroney well help make point', with label 4 and prediction 6
+Sample: 'news good bond economic weakness sometimes cause federal reserve low interest rate effort stimulate economy stave recession', with label 6 and prediction 6
+Sample: 'british firm sell paper retailing interest include saks fifth avenue marshall field focus tobacco financial service', with label 5 and prediction 1
+Sample: 'loan covenant require harcourt pay bank debt high-yield note upwards interest much weighty bank debt carry interest rate', with label 6 and prediction 6
+Sample: 'survey also detect bit interest golf positive sign country club golf club maker', with label 1 and prediction 5
+Sample: 'curb junk bond end tax benefit certain security zero-coupon bond postpone cash interest payment', with label 6 and prediction 6
+Sample: 'unified saving deposit account indication deposit brokered account follow small increase interest rate', with label 6 and prediction 6
+Sample: 'support dollar face central bank effort tame strong economy still relatively high interest rate compare germany japan foreigner notion dennis james capel put appear stable politically world appear unstable year', with label 6 and prediction 6
+Sample: 'period so-called coverage ratio service business cash flow divide interest payment fell 3-to-1 5-to-1', with label 6 and prediction 6
+Sample: 'moreover interest asset-backed security fully taxable interest treasury issue tax-free state local level', with label 6 and prediction 6
+Sample: 'ima extend offer await senate action proposal eliminate tax deductibility certain interest payment original issue discount debt security use finance offer', with label 6 and prediction 6
+Sample: 'recently pound fall high inflation also seem almost impervious high interest rate lawson deploy stop', with label 6 and prediction 6
+Sample: 'greenspan prepare speech say govern monetary policy intermediate target exchange interest rate coincide feed long-term inflation-fighting goal', with label 6 and prediction 6
+Sample: 'commonly give scenario base interest rate company guarantee usually rate currently get investment often', with label 6 and prediction 6
+Sample: 'trader take statement sign high european interest rate near term begin take profit issue lead market last week string consecutive record close', with label 6 and prediction 6
+Sample: 'keep exchange rate peg lawson tighten monetary policy push interest rate', with label 6 and prediction 6
+Sample: 'mean note continue trade par value trading exclude accrue interest rjr boost bond interest rate high necessary drive market price', with label 6 and prediction 6
+Sample: 'stock market tremor bond market back look next batch economic number determine interest rate head', with label 6 and prediction 6
+Sample: 'student school interest cost pay student add loan balance', with label 6 and prediction 6
+Sample: 'phelan interest build electronic marketplace say market maker', with label 3 and prediction 1
+Sample: 'acquire howick coal mine oct buy british petroleum australian coal interest', with label 5 and prediction 5
+Sample: 'new note bear interest july thereafter', with label 6 and prediction 6
+Sample: 'fast genome project move academic interest', with label 1 and prediction 1
+Sample: 'lump payment low harcourt interest bill roughly year say john berardi harcourt senior vice president treasurer', with label 6 and prediction 6
+Sample: 'sept letter dunkin donut franchise owner company chairman robert rosenberg say certain franchise owner express concern takeover jeopardize dunkin donut system offer help finance leveraged buy-out company mean protect interest', with label 4 and prediction 5
+Sample: 'thursday september key foreign annual interest rate guide general level always represent actual transaction', with label 6 and prediction 6
+Sample: 'also interest broadcasting lighting product jet engine appliance plastic', with label 5 and prediction 5
+Sample: 'corporate bond market new debt issue yesterday company rush take advantage fall interest rate', with label 6 and prediction 6
+Sample: 'itoh many company talk buy least equity interest jvcvictor japan matsushita recently agree invest joint venture independent hollywood producer larry gordon produce finance motion picture', with label 5 and prediction 5
+Sample: 'eight-year bond bear annual interest pay cash form debenture', with label 6 and prediction 6
+Sample: 'compound annual return include price change income interest dividend actual performance annualized source ibbotson associate inc', with label 6 and prediction 6
+Sample: 'new arrangement phillips hold work interest acreage well act operator northwest hold remain interest', with label 5 and prediction 5
+Sample: 'glazer group say security exchange commission filing early october seek control interest harley-davidson seek representation company board', with label 5 and prediction 5
+Sample: 'longer maturity think indicate decline interest rate permit portfolio manager retain relatively high rate longer period', with label 6 and prediction 6
+Sample: 'pact paso sell back commercial federal saving loan association share preferred stock interest dividend', with label 6 and prediction 5
+Sample: 'rapid recovery continue fuel growth consumer loan high interest margin minor loan loss', with label 6 and prediction 6
+Sample: 'addwest gold hold interest kendall gold mine montana well various property state california', with label 5 and prediction 5
+Sample: 'feed resist pressure cut interest rate analyst say reduction likely come week economy unexpected sluggishness dollar continue strength', with label 6 and prediction 6
+Sample: 'risk hostile takeover force corporate officer focus short term ignore corporation long-range interest', with label 4 and prediction 1
+Sample: 'bond price also support speculation federal reserve unable control dollar intervention alone consider lower interest rate new tactic', with label 6 and prediction 6
+Sample: 'government interest protect public official self-appointed self-interested private party suffer injury assert paul gewirtz yale law professor submit paper support contractor court', with label 4 and prediction 4
+Sample: 'series bond interest subject tax include current interest serial bond due capital appreciation bond due 2005-2010 tender option bond reoffered due', with label 6 and prediction 6
+Sample: 'new hippocrates editorial matter similar health add feature address physician interest', with label 3 and prediction 1
+Sample: 'still conglomerate curious melange tobacco insurance interest', with label 5 and prediction 5
+Sample: 'friday central realty president john murphy say letter major realty board director central realty director dumbfounded major realty lack sensitivity shareholder employee interest', with label 4 and prediction 5
+Sample: 'even lobbyist heavy industry interest hit hard bill encourage', with label 5 and prediction 1
+Sample: 'dumez group profit franc payment minority interest', with label 5 and prediction 5
+Sample: 'dutch step interest airline already control parent base shell oil', with label 5 and prediction 5
+Sample: 'zero-coupon security pay interest maturity return investor consist primarily bond discount', with label 6 and prediction 6
+Sample: 'lure buyer north western bond portfolio manager say donaldson lufkin sweeten transaction offer bond resettable interest rate equity kicker', with label 6 and prediction 6
+Sample: 'economist predict inflationary sign interest rate remain high possibly hit particularly sterling continue come pressure', with label 6 and prediction 6
+Sample: 'many trader expect west german central bank raise key interest rate least percentage point thursday', with label 6 and prediction 6
+Sample: 'see marketing brief viacom inc third-period loss widen interest expense cite wsj oct', with label 6 and prediction 6
+Sample: 'paper work finish underwriter escort company executive country drum interest share', with label 1 and prediction 1
+Sample: 'profit tax minority interest profit attributable shareholder rise penny share penny share year', with label 5 and prediction 5
+Sample: 'warner decision file suit wake failure reach settlement sony surprise executive rival studio say warner protect interest', with label 4 and prediction 6
+Sample: 'hard hit zero-coupon bond fund invest bond sell deep discount pay interest mature', with label 6 and prediction 6
+Sample: 'reason lawyer liable emotional distress client substantial emotional interest stake', with label 1 and prediction 4
+Sample: 'instance soviet inflation currently expect interest rate initially', with label 6 and prediction 6
+Sample: 'new york-based lin currently voting interest equity interest franchise', with label 5 and prediction 5
+Sample: 'intek hold company interest coating product static control also maker electrostatic simulation testing equipment', with label 5 and prediction 5
+Sample: 'interest area expect renew project esso resource canada ltd shell canada ltd gulf canada resource ltd export cubic foot natural gas mackenzie river delta start', with label 1 and prediction 5
+Sample: 'succeed george newman leave virginia trading pursue personal community interest include ballet founder president company say', with label 3 and prediction 5
+Sample: 'interest takeover stock boost hilton hotel jump talk imminent bid company', with label 1 and prediction 1
+Sample: 'long foreign-exchange rate various european currency remain stable fluctuation interest rate ecu-denominated security respond mainly change fortune yield constituent credit market great influence exert west germany france italy', with label 6 and prediction 6
+Sample: 'debt cost company interest payment year', with label 6 and prediction 6
+Sample: 'politician always favor easy money low interest rate mean inflation reason', with label 6 and prediction 6
+Sample: 'yield money-market mutual fund slip back september level reflect week retreat short-term interest rate', with label 6 and prediction 6
+Sample: 'conceal non-enforcement agreement certain transaction messrs taylor watson enter firstsouth book loan allow thrift report fee interest current income accord attorney office little rock ark', with label 6 and prediction 6
+Sample: 'hudson general say hold discussion bank grant bank security interest asset extent permit', with label 5 and prediction 1
+Sample: 'analyst advocate raise interest rate japan west germany reverse recent rise dollar value', with label 6 and prediction 6
+Sample: 'trust make decision know best interest say add old-boy network', with label 4 and prediction 4
+Sample: 'startle people say gold subsequently recover high ounce year then-rampant inflation soar interest rate continue pace say', with label 6 and prediction 6
+Sample: 'dollar shrug surprise rise japanese interest rate gain concerted selling central bank feed interest rate stance subdue stock bond trader', with label 6 and prediction 6
+Sample: 'mansion house speech lawson warn slowdown expect impact last rise interest rate earlier month take effect', with label 6 and prediction 6
+Sample: 'particular economic discussion shape fact bank seem incline select principal interest reduction option brady plan reduce likelihood large sum fresh money flow mexico', with label 6 and prediction 6
+Sample: 'henley group inc say plan spin land holding shareholder leave company diverse interest laboratory supply operation industrial product', with label 5 and prediction 5
+Sample: 'market mood improve relative strength yen low short-term domestic interest rate high bond price trader say', with label 6 and prediction 6
+Sample: 'say expect interest rate decline drag dollar mark end january short-lived dash mark end november', with label 6 and prediction 6
+Sample: 'mesa airline inc farmington say interest merger proposal tiny rival stateswest airline', with label 1 and prediction 4
+Sample: 'dealer attribute day gain market-makers move price high rather outbreak significant buying interest', with label 1 and prediction 1
+Sample: 'morgan receive interest payment medium long-term brazilian loan accrue interest net interest income high quarter morgan say', with label 6 and prediction 6
+Sample: 'sector closely influence interest rate purchase frequently finance borrowing', with label 6 and prediction 6
+Sample: 'interest rat full percentage point last spring level many people focus financing big investment home', with label 6 and prediction 6
+Sample: 'feel interest rate pretty favorable long-term debt say philip shapiro chief financial officer massachusetts water resource authority', with label 6 and prediction 6
+Sample: 'humana inc say expect receive federal income-tax refund interest court ruling tax dispute', with label 6 and prediction 6
+Sample: 'thus irs say blandings loan home-acquisition debt interest fully deductible', with label 6 and prediction 6
+Sample: 'result security pacific net interest margin fell basis point mild decrease major bank california report sluggish earnings', with label 6 and prediction 6
+Sample: 'finnish group minority interest already operate moscow hotel sheraton-pan venture first joint-venture hotel soviet union much foreign ownership', with label 5 and prediction 1
+Sample: 'various acquisition attempt fail find overfunded pay high interest', with label 6 and prediction 6
+Sample: 'refcorp also say bond strip separate interest principal component', with label 6 and prediction 6
+Sample: 'week issue barron add speculation general motor ford interest european luxury-car maker', with label 1 and prediction 1
+Sample: 'september cash squeeze hit campeau lomas financial corp default note appear unlikely pay interest total debt security', with label 6 and prediction 6
+Sample: 'high interest rate abroad make dollar less attractive foreign investor', with label 6 and prediction 6
+Sample: 'private economist suggest set poor trade figure prompt government raise interest rate', with label 6 and prediction 6
+Sample: 'london share close high overall session mark modest volume continue absence active institutional interest', with label 1 and prediction 6
+Sample: 'vice presidentnational-government relation womack work top management company government-relations staff represent interest federal level say john smale chairman chief executive officer', with label 4 and prediction 6
+Sample: 'product sale sharp contrast day biotechnology company live meager contract research interest income say ernst steven burrill', with label 6 and prediction 6
+Sample: 'call unlawful termination mgmua acquisition agreement qintex high australian interest rate pilot strike australian domestic airline cut revenue company australian resort delay complete sale regional station queensland state', with label 6 and prediction 6
+Sample: 'profit tax minority interest increase year-earlier period earnings share rise penny cent penny cent', with label 5 and prediction 5
+Sample: 'increase small rise otc short interest post last month', with label 5 and prediction 5
+Sample: 'important government ignore role low tax rate attract real capital investment instead emphasize financial flow response high interest rate', with label 6 and prediction 6
+Sample: 'home building buy pick bit feed begin nudge interest rate seiders say late number show talk rebound housing premature', with label 6 and prediction 6
+Sample: 'westinghouse interest electrical product defense electronics financial service broadcasting', with label 5 and prediction 5
+Sample: 'macy say letter investor pretax earnings interest depreciation sale fiscal end july', with label 6 and prediction 6
+Sample: 'henley group plan spin land holding leave company interest laboratory supply operation industrial product', with label 5 and prediction 5
+Sample: 'first meeting yesterday senate democrat express interest cut tax', with label 1 and prediction 1
+Sample: 'short interest american depositary receipt jaguar target ford motor general motor double', with label 5 and prediction 1
+Sample: 'grow old interest politics fade', with label 1 and prediction 4
+Sample: 'guess blandings want deduct home-mortgage interest loan', with label 6 and prediction 6
+Sample: 'speak meeting host japanese economic planning agency boskin base outlook low interest rate accord japanese news service', with label 6 and prediction 6
+Sample: 'artra group say three-step recapitalization lori corp unit cut lori annual interest expense save lori annually preferred dividend', with label 6 and prediction 6
+Sample: 'new york-based lin currently voting interest equity interest franchise', with label 5 and prediction 5
+Sample: 'action interpret lack interest international market explain malik', with label 1 and prediction 1
+Sample: 'remark interpret credit market analyst sign feed unlikely low interest rate base solely foreign exchange concern', with label 6 and prediction 6
+Sample: 'europe everybody expect bundesbank raise interest rate full point surprise something clear everybody say aloys bischofberger chief economist credit suisse zurich', with label 6 and prediction 6
+Sample: 'remainder expect downturn begin sometime manufacturer often quick call low interest rate executive say prefer feed keep inflation-fighting top priority even mean high rate', with label 6 and prediction 6
+Sample: 'accord bank choose make new loan take charge reserve swap loan bond carry discount face value loan amount below-market interest rate', with label 6 and prediction 6
+Sample: 'say represent public interest badly interest either', with label 4 and prediction 4
+Sample: 'note accrue interest rate year payable fund year accord stephen roulac real estate consultant work fund', with label 6 and prediction 6
+Sample: 'average interest rate rise citicorp weekly auction 91-day commercial paper corporate iou last week sale', with label 6 and prediction 6
+Sample: 'corporate canvas include brewing medium resource property interest tatter', with label 5 and prediction 5
+Sample: 'initial interest rate set point three-month libor', with label 6 and prediction 6
+Sample: 'interest rate margin japan remain fix floating-rate loan make loan make tokyo bank vast cheap deposit rate thanks rigid saving ethic national savings-deposit rate', with label 6 and prediction 6
+Sample: 'succeed james burt iii resign post pursue interest', with label 3 and prediction 3
+Sample: 'wide disparity open interest deliverable supply great number suggest vast majority future contract simply nullify offset trade option contract typically expire unexercised', with label 5 and prediction 6
+Sample: 'company report loss taxation minority interest irish punt compare loss irish punt year-earlier period', with label 5 and prediction 6
+Sample: 'obscure investor question list option exchange arouse much interest congress mainly regional exchange fear change bankrupt', with label 1 and prediction 1
+Sample: 'june sorry state business cause interest junk bond reset increase company annual interest payment', with label 6 and prediction 6
+Sample: 'james harmon 30-year veteran security business chairman wertheim schroder say wall street today generally place pursuit fee best interest client', with label 4 and prediction 6
+Sample: 'short interest increase nasdaq over-the-counter market month end oct', with label 5 and prediction 5
+Sample: 'expense unrelated interest rise', with label 6 and prediction 6
+Sample: 'british chancellor exchequer nigel lawson pledge continue government strategy fight inflation strong pound high interest rate long necessary', with label 6 and prediction 6
+Sample: 'blue-collar worker lay recession occur machine fire interest payment away', with label 6 and prediction 6
+Sample: 'currency fall interest rate raise attract financial flow order stabilize exchange rate', with label 6 and prediction 6
+Sample: 'western union say week ago withdraw pending offer replace so-called reset note pay annual interest set come due new issue pay low interest', with label 6 and prediction 6
+Sample: 'say market current focus west german central bank council thursday meeting damp interest stock trading', with label 1 and prediction 6
+Sample: 'hotel management interest sell auction say john rothman president chief executive officer trust director corporation', with label 5 and prediction 5
+Sample: 'lin exercise option mccaw acquire metromedia interest ironic thing mccaw end lin control partner new york franchise grubman say', with label 5 and prediction 5
+Sample: 'english economy collapse german interest rate therefore rise', with label 6 and prediction 1
+Sample: 'part settlement interest electrical product financial service broadcasting also agree implement certain policy procedure facility adapter manufacture situation lead investigation recur', with label 5 and prediction 5
+Sample: 'still caution audi need shed dealer lose interest franchise', with label 1 and prediction 1
+Sample: 'student sowell argue sensibly choose best school school best accommodate individual ability interest aspiring poet heaven aspiring engineer hell', with label 3 and prediction 6
+Sample: 'annualized interest rate certain investment report federal reserve board weekly-average basis a-discounted rate', with label 6 and prediction 6
+Sample: 'interest rate rise municipality owe bank bank pay', with label 6 and prediction 6
+Sample: 'interest expense third quarter', with label 6 and prediction 6
+Sample: 'expect economy slip recession current quarter predict federal reserve able cut interest rate fast enough offset plunge earnings', with label 6 and prediction 6
+Sample: 'airline real blow public interest', with label 4 and prediction 4
+Sample: 'junk-bond fund continue rake enormous interest payment', with label 6 and prediction 6
+Sample: 'open interest number contract nullify opposite trade fulfil delivery commodity', with label 5 and prediction 5
+Sample: 'brief statement ankeny concede best person turn first bank give challenge organization face 've determine best interest shareholder employee resign chairman president chief executive', with label 4 and prediction 6
+Sample: 'interest rate guarantee year holder get day choose guarantee period switch insurer contract surrender charge common annuity', with label 6 and prediction 6
+Sample: 'net interest expense period', with label 6 and prediction 6
+Sample: 'value investment decimate inflation erode purchase power bond fixed-dollar interest payment', with label 6 and prediction 6
+Sample: 'player say rise interest rate undesirable help damp inflationary pressure', with label 6 and prediction 6
+Sample: 'current interest bond price yield', with label 6 and prediction 6
+Sample: 'ford motor interest jaguar continue stir interest foreign car maker american depositary receipt active issue nasdaq rise turnover', with label 1 and prediction 1
+Sample: 'interest rate drop make sense corporation save interest cost', with label 6 and prediction 6
+Sample: 'disclose number nomination receive area generate interest', with label 1 and prediction 1
+Sample: 'sign weaken economy friday report unemployment rate rise september still lead central bank low interest rate come week', with label 6 and prediction 6
+Sample: 'many bitterly remember major bond issue stalin era shortly world war people force buy bond never receive promise interest payment', with label 6 and prediction 6
+Sample: 'example special meeting monday phelan senior official big board stock specialist firm complain exchange longer represent interest', with label 4 and prediction 5
+Sample: 'roman workaholic detailsman phillips rather delegate leave time interest office', with label 3 and prediction 6
+Sample: 'ultimately best interest client', with label 4 and prediction 4
+Sample: 'look ahead majority area official expect interest rate decline inflation rise chief executive feel recession likely end regional level executive less good news report business', with label 6 and prediction 6
+Sample: 'short interest month end sept fell new york stock exchange creep less record american stock exchange', with label 5 and prediction 5
+Sample: 'american express also interest financial service publishing', with label 5 and prediction 5
+Sample: 'addition norfolk affiliate york capital inc purchase interest eagle secure lender total guarantee much payment eagle unsecured creditor', with label 5 and prediction 6
+Sample: 'example company post loss buy-out interest payment exist rule allow concern able receive refund tax pay profitable public company', with label 6 and prediction 6
+Sample: 'henry kissinger oppose sanction china extensive business interest china turn invitation speak event', with label 5 and prediction 5
+Sample: 'day congress fail act cause additional disruption borrowing schedule possibly result high interest cost taxpayer treasury secretary nicholas brady say speech prepare delivery last night group banker', with label 6 and prediction 6
+Sample: 'interest jaguar reflect desire help diversify company product grow luxury-car segment market', with label 1 and prediction 5
+Sample: 'zero-coupon bond pay interest issue deep discount', with label 6 and prediction 6
+Sample: 'integrate resource inc drexel client default july nearly debt resort international inc fail meet interest payment junk debt', with label 6 and prediction 6
+Sample: 'campeau develop cash squeeze cause tardy interest payment put prestigious bloomingdales department-store chain sale', with label 6 and prediction 6
+Sample: 'believe investor interest broaden second-tier stock sector leading issue microsoft intel continue well', with label 1 and prediction 1
+Sample: 'james bailey 43-year-old president chief executive officer resign pursue interest', with label 3 and prediction 3
+Sample: 'people hear interest take seriously', with label 4 and prediction 1
+Sample: 'boatman say banking institution general future feel longterm squeeze net interest margin so-called spread bank pay fund interest charge loan', with label 6 and prediction 6
+Sample: 'daimler say interested mount bid jaguar dealer say name underline grow interest british concern', with label 1 and prediction 1
+Sample: 'texas air chairman frank lorenzo disclose last month company consider sell interest continental airline main operating unit', with label 5 and prediction 1
+Sample: 'part loss sustain taxpayer offset extent report interest earn foreign-exchange holding', with label 6 and prediction 6
+Sample: 'class represent dividend interest hughes earnings close cent big board composite trading', with label 5 and prediction 5
+Sample: 'however difficult next year show improvement interest margin loan rate cost fund say daberko responsible banking operation', with label 6 and prediction 6
+Sample: 'effective yield issue interest rate general decline sharply part price blumenfeld pay premium additional amount top base value accrue interest represent increase market value', with label 6 and prediction 6
+Sample: 'reader digest association acquire special interest magazine travel-holiday family handyman new choice formerly know magazine', with label 3 and prediction 3
+Sample: 'trace interest reform feed complaint constituent deep recession early', with label 1 and prediction 1
+Sample: 'first union net interest income squeeze low rate loan high rate deposit decrease quarter', with label 6 and prediction 6
+Sample: 'accord executive familiar company hawkins trip london week ago express interest share buy-back use proceeds plan sale saatchi consulting business', with label 1 and prediction 5
+Sample: 'richard goldberg attorney partnership group note share trading low group original offer stock fall partnership lose interest', with label 1 and prediction 6
+Sample: 'debt pay asset sell leave total spending bailout include interest year', with label 6 and prediction 6
