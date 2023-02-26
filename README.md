@@ -1,5 +1,5 @@
 # Natural Language Processing 1
-***Course taught during the Artificial Intelligence master's program, 1nd Year, 2st Semester, 2021***
+***Course taught during the Artificial Intelligence master's program, 1st Year, 2nd Semester, 2021***
 
 ***University of Bucharest, Faculty of Mathematics and Computer Science***
 
